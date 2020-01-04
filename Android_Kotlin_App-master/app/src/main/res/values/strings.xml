@@ -1,0 +1,15 @@
+<resources>
+    <string name="cellTitle"></string>
+    <string name="cellUser"></string>
+    <string name="body"></string>
+    <string name="fragText"></string>
+    <string name="fragComment"></string>
+    <string name="fragAuthor"></string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_text">Text</string>
+    <string name="title"></string>
+    <string name="title_main">Articles list</string>
+    <string name="title_comment">Comments</string>
+    <string name="title_author">Author</string>
+
+</resources>
